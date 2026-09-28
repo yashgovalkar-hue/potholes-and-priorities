@@ -1,4 +1,4 @@
-# potholes-and-priorities
+# Potholes & Priorities: Mumbai Civic Grievance Dashboard
 Power BI dashboard analyzing Mumbai civic complaints (2018–2024)
 ## Key Findings
 - During monsoon, complaint volume and severity mix stay the same, but resolution time rises 37% (12.2 to 16.7 days). This points to a capacity problem, not a demand problem.
